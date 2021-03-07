@@ -10,7 +10,7 @@
 
     <packaging>pom</packaging>
     <modules>
-        <module>gulimall_coupen</module>
+        <module>gulimall_coupon</module>
         <module>gulimall_member</module>
         <module>gulimall_order</module>
         <module>gulimall_product</module>
